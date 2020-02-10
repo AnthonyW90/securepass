@@ -1,0 +1,9 @@
+{
+    "python.pythonPath": "/Users/anthony/.local/share/virtualenvs/review-yCTO36cY/bin/python",
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact",
+        "vue-html": "html",
+        "django-html": "html",
+        "plaintext": "jade"
+    }
+}
